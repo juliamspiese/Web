@@ -1,0 +1,17 @@
+[
+    {
+      "title": "A Post",
+      "content": "Hello World!",
+      "user_id": 1
+    },
+    {
+      "title": "Another Post",
+      "content": "Hello again, World.",
+      "user_id": 2
+    },
+    {
+      "title": "One More Post",
+      "content": "Goodbye, World.",
+      "user_id": 1
+    }
+  ]
